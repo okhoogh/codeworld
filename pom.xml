@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>codeworld_common</module>
+        <module>codeworld_article</module>
     </modules>
 
     <!--继承springboot为父工程-->
